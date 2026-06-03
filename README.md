@@ -155,3 +155,4 @@ pytest tests/ -v
 ## 📄 Licencia
 
 MIT
+
